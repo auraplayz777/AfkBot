@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dominatorss.aternos.me",
-    "port": 54575,
+    "ip": "dominatorss.aternos.me",
+    "port": 26882,
     "version": "",
     "try-creative": false
   },
